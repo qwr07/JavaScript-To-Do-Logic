@@ -1,2 +1,11 @@
-# JavaScript-To-Do-Logic
-A simple JavaScript script that manages a to-do list. Users can add tasks, delete tasks, and store them using Local Storage.
+# JavaScript To-Do List Logic
+
+This project contains the JavaScript logic for a simple To-Do List.
+
+## Features
+- Add tasks
+- Delete tasks
+- Save tasks in Local Storage
+
+## Language
+JavaScript
